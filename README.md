@@ -1,4 +1,2 @@
-# Beginner_Cpp_Projects-
-This repository contains C++ projects on data structures, object oriented programming, algoritms, 
-and introductory topics such as functions, fundamental data types, arithmetics, string operations, structures as solutions to given problems. 
-Each problem is given as a read me file for the respective solution.
+# Resistors
+This branch includes the solution files and user interface implementation to calculate the total resistance in a given electrical circuit. Input file contains different resistors and their resistance values. Code calculates the total resistance by going over the circuit with respect to the positions of the resistors that are parallely or serially connected.
