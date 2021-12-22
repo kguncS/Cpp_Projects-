@@ -1,4 +1,2 @@
-# Cpp_Projects-
-This repository contains C++ projects on data structures, object oriented programming, algoritms, 
-and introductory topics such as functions, fundamental data types, arithmetics, string operations, structures as solutions to given problems. 
-Each problem is given as a read me file for the respective solution.
+# Quick Sort
+This branch is dedicated to the quick sort algorithm implementation on absorbed tweets data. Project information and the data files are provided by the Istanbul Technical University Comp. Engineering department. 
